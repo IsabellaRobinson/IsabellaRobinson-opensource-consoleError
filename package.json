@@ -1,0 +1,25 @@
+{
+  "name": "isabellarobinson-opensource-consoleerror",
+  "version": "1.0.0",
+  "description": "Colorful error",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabellaRobinson/IsabellaRobinson-opensource-consoleError.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "colors",
+    "error"
+  ],
+  "author": "Isabella Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsabellaRobinson/IsabellaRobinson-opensource-consoleError/issues"
+  },
+  "homepage": "https://github.com/IsabellaRobinson/IsabellaRobinson-opensource-consoleError#readme"
+}
