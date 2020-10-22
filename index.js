@@ -1,4 +1,4 @@
-var reset = "\x1b[0m"
+var reset = "\x1b[0m";
 
 var colorConsole = {
     error: function(string) {
