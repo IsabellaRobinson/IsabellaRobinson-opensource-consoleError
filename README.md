@@ -1,4 +1,4 @@
-# This is how to use console messages in colors.
+# This is how to use console messages in colors
 
 - Open your browser
 - In the browser, you click right
